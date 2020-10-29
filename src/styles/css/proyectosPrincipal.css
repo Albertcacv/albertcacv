@@ -1,0 +1,10 @@
+html {
+    background-image: url("../../../public/fondoProyectosPrincipal.png");
+}
+
+
+header > h1 {
+    color: white;
+    text-align: center;
+}
+
