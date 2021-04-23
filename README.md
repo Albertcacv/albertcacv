@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=albertcacv&label=Profile%20views&color=0e75b6&style=flat" alt="albertcacv" /> </p>
 
 <h3 align="center">What I do in my leisure time?</h3> 
-<p align="center"> I’m currently learning <b>frontend frameworks</b> and everything related to web development </p>
+<p align="center"> I’m currently learning <b>frontend development</b> and everything related to web development.</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
