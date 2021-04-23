@@ -6,14 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=albertcacv&label=Profile%20views&color=0e75b6&style=flat" alt="albertcacv" /> </p>
 
 <h3 align="center">What I do in my leisure time?</h3> 
-<p align="center"> I’m currently learning **frontend frameworks and everything related to web development** </p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/albertcacv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="albertcacv" height="30" width="40" /></a>
-<a href="https://twitter.com/albertcacv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="albertcacv" height="30" width="40" /></a>
-<a href="https://medium.com/@albertcacv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@albertcacv" height="30" width="40" /></a>
-</p>
+<p align="center"> I’m currently learning <b>frontend frameworks</b> and everything related to web development </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
