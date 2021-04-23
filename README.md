@@ -1,4 +1,4 @@
-## 📈**Some Statistics About Me**
+## 📈**Some stats about me**
 
 | Most Used Languages | GitHub Stats |
 | ------------------- | ------------ |
