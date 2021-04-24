@@ -3,8 +3,6 @@
 
 <p align="center"> <a href="https://twitter.com/albertcacv" target="blank"><img src="https://img.shields.io/twitter/follow/albertcacv?logo=twitter&style=for-the-badge" alt="albertcacv" /></a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=albertcacv&label=Profile%20views&color=0e75b6&style=flat" alt="albertcacv" /> </p>
-
 <h3 align="center">What I do in my leisure time?</h3> 
 <p align="center"> I’m currently learning <b>frontend development</b> and everything related to web development.
 I also feel a great attraction for the world of cybersecurity, especially in the pentesting sector.</p>
