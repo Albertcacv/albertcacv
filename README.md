@@ -14,7 +14,7 @@ I also feel a great attraction for the world of cybersecurity, especially in the
 
 | Most Used Languages | GitHub Stats |
 | ------------------- | ------------ |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=albertcacv&show_icons=true&locale=en&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=albertcacv&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=albertcacv&show_icons=true&locale=en) | ![Stats](https://github-readme-stats.vercel.app/api/?username=albertcacv&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
 
 
 <h3 align="center">Connect with me:</h3>
