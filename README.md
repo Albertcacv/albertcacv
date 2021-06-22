@@ -30,7 +30,7 @@ I also feel a great attraction for the world of cybersecurity, especially in the
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Vue/Vue.svg" alt="VueJS" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue.svg" alt="VueJS" width="40" height="40"/> 
  </a>
  <a href="https://www.java.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
