@@ -3,8 +3,6 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=albertcacv&label=Profile%20views&color=0e75b6&style=flat" alt="albertcacv" />
-<a href="https://twitter.com/albertcacv" target="blank">
- <img src="https://img.shields.io/twitter/follow/albertcacv?logo=twitter&style=for-the-badge" alt="albertcacv" /></a> 
 </p>
 
 I’m currently working on **the development of my website with the idea of incorporating a blog where I can write about my projects and whatever comes up.**
