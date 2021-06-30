@@ -5,9 +5,10 @@
  <img src="https://komarev.com/ghpvc/?username=albertcacv&label=Profile%20views&color=0e75b6&style=flat" alt="albertcacv" />
 </p>
 
-I’m currently working on **the development of my website with the idea of incorporating a blog where I can write about my projects and whatever comes up.**
 
 I’m currently learning **some frontend frameworks in order to establish a stack of technologies that I am comfortable with.**
+The next step is **the development of my website with the idea of incorporating a blog where I can write about my projects and whatever comes up.**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
