@@ -5,12 +5,6 @@
  <img src="https://komarev.com/ghpvc/?username=albertcacv&label=Profile%20views&color=0e75b6&style=flat" alt="albertcacv" />
 </p>
 
-
-I’m currently learning **some frontend frameworks and others languages like GO in order to establish a stack of technologies that I am comfortable with.**
-
-The next step is **the development of my website with the idea of incorporating a blog where I can write about my projects and whatever comes up.**
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/albertcacv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albertcacv" height="30" width="40" /></a>
