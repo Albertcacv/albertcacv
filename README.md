@@ -5,7 +5,7 @@
  <img src="https://komarev.com/ghpvc/?username=albertcacv&label=Profile%20views&color=0e75b6&style=flat" alt="albertcacv" />
 </p>
 
-<h3>Tech Stack:</h3>
+<h3>Tech Stack 🛠:</h3>
 
 <h4>Programming Languages</h4>
 
