@@ -55,7 +55,9 @@
 
 <h4>SSG</h4>
  
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
 
  <h4>Others</h4>
 
@@ -74,8 +76,8 @@
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> &nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> &nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> &nbsp; <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> &nbsp;  
+<img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> &nbsp;
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertcacV&langs_count=100&theme=tokyonight&layout=compact" alt="AlbertcacV :: Top Langs" />
