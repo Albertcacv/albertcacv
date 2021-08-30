@@ -79,12 +79,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> &nbsp;  
 <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> &nbsp;
 
-<p align="left">
+<div align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertcacV&langs_count=100&theme=tokyonight&layout=compact" alt="AlbertcacV :: Top Langs" />
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Albertcacv" />
+</div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
  <a href="https://twitter.com/albertcacv" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albertcacv" height="30" width="40" />
  </a>
