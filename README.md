@@ -43,7 +43,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> &nbsp;  
 <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> &nbsp;
 
-<div align="left">
+<div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertcacV&langs_count=100&theme=tokyonight&layout=compact" alt="AlbertcacV :: Top Langs" />
 </div>
 
