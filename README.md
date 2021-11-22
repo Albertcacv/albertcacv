@@ -45,7 +45,6 @@
 
 <div align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertcacV&langs_count=100&theme=tokyonight&layout=compact" alt="AlbertcacV :: Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Albertcacv" />
 </div>
 
 <h3 align="center">Connect with me:</h3>
